@@ -1,0 +1,68 @@
+.calc{
+    width: 100%;
+    height:auto;
+    background-color:rgb(152, 170, 211);
+}
+.formstyle
+{
+width: 300px;
+height: auto;
+/* margin-left: 480px;
+margin-top:60px; */
+border: 3px solid rgb(75, 76, 77);
+border-radius: 5px;
+padding-top: 20px;
+text-align: center;
+background-color: rgb(134, 187, 194);
+padding-bottom: 20px;
+margin:60px auto;
+/* padding-left: 10px; */
+}
+
+
+h1 {
+	text-align: center;
+	padding: 23px;
+	background-color: skyblue;
+	color: white;
+	}
+input:hover
+{
+background-color: rgb(113, 168, 161);
+}
+	
+*{
+margin: 0;
+padding: 0;
+}
+
+.tr1{
+    padding-left: 30px;
+}
+
+.btn{
+width: 50px;
+height: 50px;
+font-size: 25px;
+margin: 2px;
+cursor: pointer;
+background-color: rgb(169, 210, 233);
+color: rgb(248, 214, 214);
+outline: 1px solid black; 
+
+}
+
+
+.textview{
+width: 90%;
+margin: auto;
+font-size: 25px;
+margin-bottom: 10px;
+background-color: rgb(217, 243, 217);
+}	
+
+table{
+/* padding-left: 50px !important; */
+width: 100%;
+
+}
